@@ -20,6 +20,6 @@ Return the array ans.
     - ans = [1,3,2,1,1,3,2,1]
 
 ## Constraints:
-    - n == nums.length
-    - 1 <= n <= 1000
-    - 1 <= nums[i] <= 1000
+- n == nums.length
+- 1 <= n <= 1000
+- 1 <= nums[i] <= 1000
