@@ -7,8 +7,8 @@ class Solution:
 
         for i in range(0, (haystackSize - needleSize) +1):
             currentWord = haystack[i]
-
             tempI = i
+            
             for j in range(1, needleSize):
                 tempI = tempI + 1
                 currentWord += haystack[tempI]
